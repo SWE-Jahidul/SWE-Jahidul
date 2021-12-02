@@ -25,9 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swe-jahidul&show_icons=true&locale=en&layout=compact" alt="swe-jahidul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swe-jahidul&show_icons=true&locale=en" alt="swe-jahidul" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Jahidul)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Jahidul&show_icons=true)  
-
