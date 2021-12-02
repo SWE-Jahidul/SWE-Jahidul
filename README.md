@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Jahidul Islam 
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm Jahidul Islam, a professional web developer with
 long time experience in this field​.
 Currently, I am focusing on Front-End technology building up my knowledge.
@@ -17,6 +15,4 @@ Skills: Html , Css , JavaScript, React , Nodejs , Expressjs, Python , Django, Mo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWE-Jahidul)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SWE-Jahidul&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SWE-Jahidul)  
 
